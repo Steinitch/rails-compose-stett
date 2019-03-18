@@ -1,4 +1,7 @@
+
 # README
+
+followed: https://medium.com/firehydrant-io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
